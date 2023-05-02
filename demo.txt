@@ -1,0 +1,27 @@
+https://github.com/shraboni0015/demoone.git
+GitHub Setup Commands:
+     …or create a new repository on the command line
+   echo "# gitdemo" >> README.md
+   git init
+   git add README.md
+   git commit -m "first commit"
+   git branch -M main
+   git remote add origin https://github.com/qauser2023/gitdemo.git
+   git push -u origin main
+
+    …or push an existing repository from the command line
+   git remote add origin https://github.com/shraboni0015/demoone.git
+
+   git branch -M main
+   git push -u origin main
+
+
+
+
+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
+ 
+
+
+git remote add origin https://github.com/qauser2023/timentech.git
+git branch -M main
+git push -u origin main
